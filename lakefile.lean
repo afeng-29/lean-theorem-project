@@ -8,4 +8,4 @@ require mathlib from git
 
 @[default_target]
 lean_lib «TheoremProver» where
-  roots := #[`TestProofs]
+  roots := #[`TestProofs, `ProofGoals]
