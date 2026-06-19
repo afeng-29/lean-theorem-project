@@ -1,5 +1,5 @@
 import Mathlib
 import Aesop
 
-theorem goal_ac2e5b30 (P : Prop) : P → P := by
+theorem goal_6715a391 (n m : ℕ) : n + m = m + n := by
   sorry
