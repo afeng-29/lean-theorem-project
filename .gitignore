@@ -1,0 +1,3 @@
+# Lake build artifacts and downloaded packages — managed by lake, not git.
+# LeanDojo clones this repo and symlinks .lake from the original to avoid re-downloading.
+.lake/
