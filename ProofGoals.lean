@@ -1,5 +1,5 @@
 import Mathlib
 import Aesop
 
-theorem goal_8cd67889 (n m k : ℕ) : (n + m) + k = n + (m + k) := by
+theorem goal_1a75879c (n : ℕ) : n + 0 = n := by
   sorry
