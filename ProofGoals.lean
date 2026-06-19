@@ -1,5 +1,5 @@
 import Mathlib
 import Aesop
 
-theorem goal_8cd67889 (n m k : ℕ) : (n + m) + k = n + (m + k) := by
+theorem goal_d7d37483 (P Q : Prop) : P ∧ Q → Q ∧ P := by
   sorry
